@@ -55,6 +55,9 @@ Değerlendirilen temel metrik: ROC-AUC
 
 Sonuçlar, modelin başarılı bir şekilde churn davranışını tahmin ettiğini ve Datathon ortamında rekabetçi bir performans sunduğunu göstermektedir.
 
+
+-> Bu çözüm INGHUB Datathonunda 1501 katılımcı ve 658 takım arasından 30. sıraya yerleşmemi sağladı.
+
 ✨ Teşekkürler
 
 Bu çözümü incelemek için teşekkür ederim. Her türlü yorum, öneri veya iş birliği talebiniz için memnuniyetle yardımcı olurum.
